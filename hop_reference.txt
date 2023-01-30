@@ -1,0 +1,4 @@
+https://handwiki.org/wiki/Software:Apache_Hop#History
+https://www.know-bi.be/apachehop
+https://thenewstack.io/apache-hop-harnesses-metadata-to-create-visual-data-pipelines/
+https://www.techtarget.com/searchdatamanagement/news/252512339/Apache-Hop-data-orchestration-hits-open-source-milestone
